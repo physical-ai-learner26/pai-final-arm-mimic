@@ -2,7 +2,7 @@
 
 Matsuo Lab Physical AI 応用編1 最終課題 / アカウント: 142124
 
-デモ動画: https://youtu.be/WZooSJmVxc0
+デモ動画: https://youtu.be/P2KPMgsAPIA
 
 リポジトリ: https://github.com/physical-ai-learner26/pai-final-arm-mimic
 
